@@ -62,7 +62,7 @@ CNN_Surface_Crack_Detection/
 │
 ├── Best_Crack_Detection_Model.keras
 ├── Final_Marvellous_Crack_Detection_Model.keras
-├── Crack_Detection.py
+├── CNN_Surface_Crack_Detection.py
 ├── requirements.txt
 └── README.md
 ```
