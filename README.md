@@ -151,7 +151,7 @@ pip install -r requirements.txt
 ### Step 3: Run Project
 
 ```bash
-python Crack_Detection.py
+python CNN_Surface_Crack_Detection.py
 ```
 
 ---
