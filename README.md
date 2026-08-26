@@ -170,5 +170,5 @@ python CNN_Surface_Crack_Detection.py
 Ankita Shinde
 
 GitHub:
-https://github.com/theankita
+https://github.com/ankitashhinde
 
